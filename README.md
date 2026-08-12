@@ -13,7 +13,7 @@
 
 ## Descrição do desafio
 
-_(O desafio é desenvolver um sistema para gerenciar um e-commerce, permitindo o cadastro de produtos e clientes, a realização de pedidos e o processamento dos pagamentos.)_
+_O desafio é desenvolver um sistema para gerenciar um e-commerce, permitindo o cadastro de produtos e clientes, a realização de pedidos e o processamento dos pagamentos._
 
 ## Funcionalidades previstas
 
